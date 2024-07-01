@@ -45,6 +45,9 @@ Answer: from the analysis it was deduced that female who stay in the rural area 
 
 Answer: Users spend most of their time on Instagram and lifestyle interests them the most followed by sport also on Instagram.
 
+![Summary chart](https://github.com/osamagimede/Software-dev-training/blob/main/plp%20week%208%20mysql_page-0001.jpg)
+
+
 
 
 
